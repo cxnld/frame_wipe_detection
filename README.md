@@ -16,4 +16,4 @@
 </p>
 
 ### Sample Output Image
-<img src="/image1.png" width="60%"/>
+<img src="/image1.png" width="30%"/>
