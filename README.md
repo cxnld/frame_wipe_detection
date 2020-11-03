@@ -6,5 +6,14 @@
 
 ### The file program.m retrieves the video file and processes it so that it can feed hicomparecol.m the necessary frames and column numbers. After it receives the histogram intersections, it compiles them into a matrix which we can output as a PNG image. The code will output two images, image1.png is the untouched matrix and image2.png is the threshold image with the 30% darkest values.
 
+### Sample Input Frames
+<p float="left">
+  <img src="/scene00001.jpg" width="100" />
+  <img src="/scene00041.jpg" width="100" />
+  <img src="/scene00051.jpg" width="100" />
+  <img src="/scene00061.jpg" width="100" />
+  <img src="/scene00101.jpg" width="100" />
+</p>
+
 ### Sample Output Image
 <img src="/image1.png" width="60%"/>
